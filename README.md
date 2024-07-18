@@ -1,4 +1,6 @@
 # Data_Scienceproject
+# IMPACT OF AIR POLLUTION ON HEALTH
+
 Air pollution is a global concern that poses a significant threat to human health and well-being. Exposure to air pollution has been linked to a range of health problems, including respiratory and cardiovascular diseases, stroke, and lung cancer. The impact of air pollution on public health is reflected in the alarming statistics of deaths caused by it. According to recent studies, air pollution is responsible for millions of deaths worldwide each year.
 
 One of the most concerning aspects of air pollution is the number of deaths it causes. Total deaths for air pollution include both outdoor and household air pollution. Outdoor air pollution is caused by sources such as transportation, industrial emissions, and wildfires, while household air pollution typically comes from the use of solid fuels for cooking and heating. The number of deaths caused by outdoor air pollution is staggering, with millions of people losing their lives each year due to this form of pollution. Similarly, the use of solid fuels for cooking and heating results in a significant number of deaths from household air pollution.
